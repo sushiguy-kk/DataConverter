@@ -12,7 +12,7 @@ Windows: [DataConverter_win.zip](https://github.com/sushiguy-kk/DataConverter/re
 MacOSX: [DataConverter_mac.zip](https://github.com/sushiguy-kk/DataConverter/releases/download/v1.0.1/DataConverter_mac.zip)
 
 ## How to use
-Please download the application via the link above. Then unzip the downloaded zip file. For Windows user, launch `DataConverter.exe`. For MacOSX user, launch `DataConverter.app`. Then follow the instruction in the application to convert your data. After converting successfully, a `sosp` file will be generated. Please drag the `sosp` file into the SnowyOwl window to import the data.
+Please download the application via the link above. Then unzip the downloaded zip file. For Windows user, launch `DataConverter.exe`. For MacOSX user, launch `DataConverter.app`. If it fails to open, you need to right-click the app and in the context menu, control-click `Open`, after confirming a warning dialog, the app should open. Then follow the instruction in the application to convert your data. After converting successfully, a `sosp` file will be generated. Please drag the `sosp` file into the SnowyOwl window to import the data.
 
 ## Screenshot
 ![Screenshot](Screenshot.png?raw=true "Screenshot")
