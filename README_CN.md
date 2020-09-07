@@ -13,7 +13,7 @@ MacOSX: [DataConverter_mac.zip](https://github.com/sushiguy-kk/DataConverter/rel
 
 
 ## 使用方式
-请先用上述链接下载本应用程序，然后解压缩。Windows 用户请运行 `DataConverter.exe`, MacOSX 用户请运行 `DataConverter.app`。然后根据应用程序里面的描述来完成转换操作。成功转换后，会产生一个 `sosp` 文件，拖放该 `sosp` 文件到 SnowyOwl 窗口中即可完成导入。
+请先用上述链接下载本应用程序，然后解压缩。Windows 用户请运行 `DataConverter.exe`, macOS 用户请运行 `DataConverter.app`。macOS 用户如果不能运行，需要右击 app， 在弹出的右键菜单中，按住 control 然后点击打开。然后根据应用程序里面的描述来完成转换操作。成功转换后，会产生一个 `sosp` 文件，拖放该 `sosp` 文件到 SnowyOwl 窗口中即可完成导入。
 
 ## 应用截图
 ![截图](Screenshot.png?raw=true "截图")
